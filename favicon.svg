@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Vinayaka Mobiles</title>
+  <!-- Rounded square background (saffron) -->
+  <rect width="64" height="64" rx="12" ry="12" fill="#FF6B35" />
+
+  <!-- Cream "V" mark stylized for small sizes -->
+  <path d="M18 18 L32 44 L46 18 L40 18 L32 32 L24 18 Z" fill="#F6F0E1"/>
+
+  <!-- Small dark phone outline to hint at 'mobile' (subtle) -->
+  <rect x="22" y="8" width="20" height="32" rx="3" ry="3" fill="none" stroke="#0B0B0D" stroke-width="2" opacity="0.06"/>
+</svg>
